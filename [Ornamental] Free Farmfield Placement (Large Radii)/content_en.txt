@@ -1,1 +1,0 @@
-Farmfield placement is now based on radius instead of adjacency.
