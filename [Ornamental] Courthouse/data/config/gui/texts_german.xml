@@ -1,8 +1,0 @@
-<ModOps>
-  <ModOp Type="add" Path="/TextExport/Texts">
-    <Text>
-      <GUID>902289</GUID>
-      <Text>Gerichtsgebäude (Zierde)</Text>
-    </Text>
-  </ModOp>
-</ModOps>

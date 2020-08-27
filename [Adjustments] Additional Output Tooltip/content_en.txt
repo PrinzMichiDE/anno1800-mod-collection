@@ -1,1 +1,0 @@
-Improves tooltip for items with additional outputs.
