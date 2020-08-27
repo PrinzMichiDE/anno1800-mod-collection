@@ -8,7 +8,7 @@ Download [Mod Manager](https://www.nexusmods.com/anno1800/mods/35?tab=files&file
 ## Content
 
 * [Spice it Up](https://www.nexusmods.com/anno1800/mods/5)
-* [Cheat Mod](https://www.nexusmods.com/anno1800/mods/4)
+* NO! [Cheat Mod](https://www.nexusmods.com/anno1800/mods/4)
 * [Modular Production Boost](https://www.nexusmods.com/anno1800/mods/6)
 * [Nature Ornaments Mod](https://www.nexusmods.com/anno1800/mods/7)
 * [Archibalds Castle](https://www.nexusmods.com/anno1800/mods/9)
